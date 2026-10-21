@@ -81,8 +81,8 @@ Ensure you have the following installed on your machine:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/JyotiKuma1/portfolio.git
-cd portfolio
+git clone https://github.com/JyotiKuma1/jyoti-portfolio.git
+cd jyoti-portfolio
 ```
 
 ### 2. Install Dependencies
