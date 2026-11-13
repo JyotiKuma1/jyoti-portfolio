@@ -105,7 +105,7 @@ export default function AboutPage() {
                                     href="/contacts"
                                     className="flex-1 min-w-[130px] text-center py-3 rounded-xl bg-red-600 hover:bg-red-500 text-white font-medium text-xs sm:text-sm transition-colors duration-200 shadow-lg"
                                 >
-                                    Let's Connect
+                                    Let&apos;s Connect
                                 </Link>
                                 <a
                                     href="https://github.com/JyotiKuma1?tab=repositories"
