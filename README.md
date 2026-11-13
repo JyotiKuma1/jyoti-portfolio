@@ -137,8 +137,9 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
   - **Error Detection Intern** — Tata Steel, Jamshedpur (Industrial system log analysis & troubleshooting)
   - **Web Developer Intern** — Auto Custer Limited, Jamshedpur (Responsive web development)
 - **Connect**:
-  - 🌐 GitHub: [@JyotiKuma1](https://github.com/JyotiKuma1)
-  - 💼 LinkedIn: [Jyoti Kumari](https://linkedin.com/in/jyoti-gupta-21621226b)
+  - 🌐 GitHub: [@JyotiKuma1](https://github.com/JyotiKuma1?tab=repositories)
+  - 💼 LinkedIn: [Jyoti Gupta](https://www.linkedin.com/in/jyoti-gupta-21621226b/)
+  - 🎯 TryHackMe: [@Jyoti11](https://tryhackme.com/p/Jyoti11)
   - 📧 Email: [jkumari75628@gmail.com](mailto:jkumari75628@gmail.com)
 
 ---

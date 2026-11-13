@@ -100,28 +100,36 @@ export default function AboutPage() {
                             </div>
 
                             {/* Direct Connect Buttons */}
-                            <div className="mt-8 flex gap-3">
+                            <div className="mt-8 flex flex-wrap gap-2.5">
                                 <Link
                                     href="/contacts"
-                                    className="flex-1 text-center py-3 rounded-xl bg-red-600 hover:bg-red-500 text-white font-medium text-xs sm:text-sm transition-colors duration-200 shadow-lg"
+                                    className="flex-1 min-w-[130px] text-center py-3 rounded-xl bg-red-600 hover:bg-red-500 text-white font-medium text-xs sm:text-sm transition-colors duration-200 shadow-lg"
                                 >
                                     Let's Connect
                                 </Link>
                                 <a
-                                    href="https://github.com/jyotiKuma1"
+                                    href="https://github.com/JyotiKuma1?tab=repositories"
                                     target="_blank"
                                     rel="noopener noreferrer"
-                                    className="px-4 py-3 rounded-xl border border-white/15 bg-white/[0.04] hover:bg-white/10 text-white font-mono text-xs flex items-center justify-center transition-colors"
+                                    className="px-3.5 py-3 rounded-xl border border-white/15 bg-white/[0.04] hover:bg-white/10 text-white font-mono text-xs flex items-center justify-center transition-colors"
                                 >
                                     GitHub ↗
                                 </a>
                                 <a
-                                    href="https://linkedin.com/in/jyoti-gupta-21621226b"
+                                    href="https://www.linkedin.com/in/jyoti-gupta-21621226b/"
                                     target="_blank"
                                     rel="noopener noreferrer"
-                                    className="px-4 py-3 rounded-xl border border-white/15 bg-white/[0.04] hover:bg-white/10 text-white font-mono text-xs flex items-center justify-center transition-colors"
+                                    className="px-3.5 py-3 rounded-xl border border-white/15 bg-white/[0.04] hover:bg-white/10 text-white font-mono text-xs flex items-center justify-center transition-colors"
                                 >
                                     LinkedIn ↗
+                                </a>
+                                <a
+                                    href="https://tryhackme.com/p/Jyoti11"
+                                    target="_blank"
+                                    rel="noopener noreferrer"
+                                    className="px-3.5 py-3 rounded-xl border border-white/15 bg-white/[0.04] hover:border-red-500/40 hover:bg-red-600/10 text-white font-mono text-xs flex items-center justify-center transition-colors"
+                                >
+                                    TryHackMe ↗
                                 </a>
                             </div>
 

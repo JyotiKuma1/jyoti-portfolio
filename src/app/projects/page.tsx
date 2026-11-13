@@ -33,7 +33,7 @@ const PROJECTS_DATA: Project[] = [
             'Handled database architecture across multi-model stores (document, graph, and vector) connected directly to API endpoints.'
         ],
         tech: ['Threat Intelligence', 'MongoDB', 'Neo4j', 'ChromaDB', 'NVD Feed', 'CISA KEV', 'MITRE ATT&CK', 'VirusTotal', 'abuse.ch', 'API Integration'],
-        github: 'https://github.com/jyotiKuma1'
+        github: 'https://github.com/JyotiKuma1?tab=repositories'
     },
     {
         id: 'nursing-home',
@@ -49,7 +49,7 @@ const PROJECTS_DATA: Project[] = [
             'Constructed responsive interfaces using semantic HTML and CSS to reduce manual operational effort.'
         ],
         tech: ['Java', 'JSP', 'SQL Database', 'HTML5', 'CSS3', 'Healthcare Workflow Management'],
-        github: 'https://github.com/jyotiKuma1'
+        github: 'https://github.com/JyotiKuma1?tab=repositories'
     },
     {
         id: 'spotify-app',
@@ -65,7 +65,7 @@ const PROJECTS_DATA: Project[] = [
             'Adhered to company-defined design requirements and modular software development standards.'
         ],
         tech: ['React.js', 'Java', 'HTML5', 'CSS3', 'Responsive Design', 'Component Architecture'],
-        github: 'https://github.com/jyotiKuma1'
+        github: 'https://github.com/JyotiKuma1?tab=repositories'
     }
 ];
 

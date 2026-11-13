@@ -98,9 +98,9 @@ export default function ContactsPage() {
                             <span className="font-mono text-xs text-white/40 block uppercase tracking-wider">
                                 Professional Networks
                             </span>
-                            <div className="grid grid-cols-2 gap-3 pt-1">
+                            <div className="grid grid-cols-1 sm:grid-cols-3 gap-3 pt-1">
                                 <a
-                                    href="https://github.com/jyotiKuma1"
+                                    href="https://github.com/JyotiKuma1?tab=repositories"
                                     target="_blank"
                                     rel="noopener noreferrer"
                                     className="p-4 rounded-2xl border border-white/10 bg-white/[0.03] hover:border-red-500/40 hover:bg-red-600/10 transition-all flex flex-col gap-1 group"
@@ -111,7 +111,7 @@ export default function ContactsPage() {
                                     <span className="font-mono text-[11px] text-white/40">Repositories & Code</span>
                                 </a>
                                 <a
-                                    href="https://linkedin.com/in/jyoti-gupta-21621226b"
+                                    href="https://www.linkedin.com/in/jyoti-gupta-21621226b/"
                                     target="_blank"
                                     rel="noopener noreferrer"
                                     className="p-4 rounded-2xl border border-white/10 bg-white/[0.03] hover:border-red-500/40 hover:bg-red-600/10 transition-all flex flex-col gap-1 group"
@@ -120,6 +120,17 @@ export default function ContactsPage() {
                                         LinkedIn <span>↗</span>
                                     </span>
                                     <span className="font-mono text-[11px] text-white/40">Professional Profile</span>
+                                </a>
+                                <a
+                                    href="https://tryhackme.com/p/Jyoti11"
+                                    target="_blank"
+                                    rel="noopener noreferrer"
+                                    className="p-4 rounded-2xl border border-white/10 bg-white/[0.03] hover:border-red-500/40 hover:bg-red-600/10 transition-all flex flex-col gap-1 group"
+                                >
+                                    <span className="text-white font-bold text-sm group-hover:text-red-400 transition-colors flex items-center justify-between">
+                                        TryHackMe <span>↗</span>
+                                    </span>
+                                    <span className="font-mono text-[11px] text-white/40">Hands-on Cyber Labs</span>
                                 </a>
                             </div>
                         </div>
